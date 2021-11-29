@@ -1,0 +1,20 @@
+{
+    tx_in_count:
+    tx_in: []
+    tx_out_count:
+    tx_out: []
+    time:
+}
+
+	
+tx_in: {
+    previous_output: (outpoint) TXID+index
+    public key: public key of sender
+    signature: signature of outpoint
+}
+
+
+tx_out: {
+    value:
+    pubkey: public_key_hash of recepient
+}

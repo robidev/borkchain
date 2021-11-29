@@ -1,0 +1,5 @@
+have borkchain continuously generate new blocks
+generate a way to send transactions, that will be added to a queue
+implement UTXO mempool
+
+

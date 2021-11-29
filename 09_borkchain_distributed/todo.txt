@@ -1,0 +1,8 @@
+serialize borkchain
+
+verify received blocks
+send newly mined blocks
+reach consensus over send/received blocks (majority vote)
+
+share unspend transaction mempool
+share node pool

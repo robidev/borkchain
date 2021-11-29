@@ -1,0 +1,7 @@
+{
+    previous_block_hash: ""
+    merkle_root_hash: ""
+    time: ""
+    nBits: "0x00ffffff"
+    nonce:
+}

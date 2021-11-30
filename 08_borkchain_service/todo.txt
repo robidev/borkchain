@@ -1,5 +1,8 @@
-have borkchain continuously generate new blocks
+have borkchain continuously generate new blocks (no new blocks, if no transactions pending, and wait 10 seconds before start mining new block)
+listen on port 8999
 generate a way to send transactions, that will be added to a queue
+check before adding to block
+max 10 transactions per block
 implement UTXO mempool
 
 

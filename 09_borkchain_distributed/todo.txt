@@ -1,8 +1,12 @@
-serialize borkchain
+serialize borkchain with pickle
 
 verify received blocks
 send newly mined blocks
-reach consensus over send/received blocks (majority vote)
+
+reach consensus over send/received blocks (majority vote, longest block)
 
 share unspend transaction mempool
 share node pool
+
+
+pickle.dumps()
